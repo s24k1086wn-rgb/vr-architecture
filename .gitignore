@@ -1,0 +1,16 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+.vscode/
+*.csproj
+*.sln
+
+.utmp/
+task02_BackUpThisFolder_ButDontShipItWithYourGame/
+*BurstDebugInformation_DoNotShip/
+UnityCompile_StartPoller.log

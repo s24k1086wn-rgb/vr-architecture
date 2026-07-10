@@ -1,0 +1,5 @@
+C:/Users/yamatomori/Documents/vr-architecture/.utmp/RelWithDebInfo/2h2t2jk2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/yamatomori/Documents/vr-architecture/.utmp/RelWithDebInfo/2h2t2jk2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/yamatomori/Documents/vr-architecture/.utmp/RelWithDebInfo/2h2t2jk2/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/yamatomori/Documents/vr-architecture/.utmp/RelWithDebInfo/2h2t2jk2/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/yamatomori/Documents/vr-architecture/.utmp/RelWithDebInfo/2h2t2jk2/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
